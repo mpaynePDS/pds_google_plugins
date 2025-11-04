@@ -9,7 +9,7 @@
     <download_url>https://mpaynepds.github.io/pds_google_plugins/util_report.zip</download_url>
   </pyqgis_plugin>
 
-  <pyqgis_plugin name="Google QC" version="4.11">
+  <pyqgis_plugin name="Google QC" version="4.12">
     <description>Google market QC Tool</description>
     <qgis_minimum_version>3.0</qgis_minimum_version>
     <file_name>google_qc</file_name>
